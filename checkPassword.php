@@ -2,7 +2,6 @@
 
 function StringChallenge($str) {
 
-  // code goes here
   $lowLimit = 7;
   $highLimit = 31;
   $capital = false;
