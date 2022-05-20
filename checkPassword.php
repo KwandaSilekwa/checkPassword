@@ -50,8 +50,5 @@ function StringChallenge($str) {
   return $str;
 
 }
-   
-// keep this function call here  
-echo StringChallenge(fgets(fopen('php://stdin', 'r')));  
-
+ 
 ?>
